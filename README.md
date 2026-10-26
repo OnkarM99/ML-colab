@@ -1,4 +1,4 @@
-# ml-colab-projects
+# ML-Colab
 Colab Notebooks
 https://colab.research.google.com/notebooks/relnotes.ipynb
 
